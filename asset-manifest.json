@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Pomodoro-app/static/css/main.f9f168f2.chunk.css",
+    "main.js": "/Pomodoro-app/static/js/main.2e7f602c.chunk.js",
+    "main.js.map": "/Pomodoro-app/static/js/main.2e7f602c.chunk.js.map",
+    "runtime-main.js": "/Pomodoro-app/static/js/runtime-main.6aef5761.js",
+    "runtime-main.js.map": "/Pomodoro-app/static/js/runtime-main.6aef5761.js.map",
+    "static/js/2.de9c8c41.chunk.js": "/Pomodoro-app/static/js/2.de9c8c41.chunk.js",
+    "static/js/2.de9c8c41.chunk.js.map": "/Pomodoro-app/static/js/2.de9c8c41.chunk.js.map",
+    "index.html": "/Pomodoro-app/index.html",
+    "precache-manifest.f81fd3f33218f54a34143431978eba4c.js": "/Pomodoro-app/precache-manifest.f81fd3f33218f54a34143431978eba4c.js",
+    "service-worker.js": "/Pomodoro-app/service-worker.js",
+    "static/css/main.f9f168f2.chunk.css.map": "/Pomodoro-app/static/css/main.f9f168f2.chunk.css.map",
+    "static/js/2.de9c8c41.chunk.js.LICENSE.txt": "/Pomodoro-app/static/js/2.de9c8c41.chunk.js.LICENSE.txt",
+    "static/media/bell.flac": "/Pomodoro-app/static/media/bell.525320df.flac"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6aef5761.js",
+    "static/js/2.de9c8c41.chunk.js",
+    "static/css/main.f9f168f2.chunk.css",
+    "static/js/main.2e7f602c.chunk.js"
+  ]
+}
